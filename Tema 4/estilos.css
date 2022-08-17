@@ -1,0 +1,32 @@
+h2 {
+    color: blue;
+    text-transform: uppercase;
+}
+
+p {  
+    color: purple;
+    font-size: 20px; 
+}
+
+#parrafoid {
+    color: orange;
+    font-size: 30pt;
+}
+
+#autor{
+    text-transform: capitalize;
+}
+
+.parrafo {
+    color: crimson ;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}   
+
+* {
+    color: yellowgreen;
+}
+
+.libro {
+    text-decoration: underline dotted rgb(236, 155, 155);
+    
+}
